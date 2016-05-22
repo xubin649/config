@@ -1,1 +1,0 @@
-/home/binxu/.zprezto/runcoms/zshrc
